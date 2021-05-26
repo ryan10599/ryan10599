@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there I'm Ryan 👋
+
+<details>
+  <summary>About me :mag_right: </summary>
+<br>
+: :man: Thanapol Pradithsathabodee (Ryan)
+<br>
+  <br>
+:: :birthday: : 25/01/1999
+<br>
+  <br>
+::: :house_with_garden: Samutprakan, Thailand
+  <br>
+  <br>
+:::: Now Study :school: Information Technology @ King Mongkut's University of Technology Thonburi
+</details>
+
+<hr/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan10599&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
