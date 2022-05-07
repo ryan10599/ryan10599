@@ -12,7 +12,7 @@
 ::: :house_with_garden: Samutprakan, Thailand
   <br>
   <br>
-:::: Now Study :school: Information Technology @ King Mongkut's University of Technology Thonburi
+:::: I'm graduated from :school: Information Technology @ King Mongkut's University of Technology Thonburi
 </details>
 
 <hr/>
